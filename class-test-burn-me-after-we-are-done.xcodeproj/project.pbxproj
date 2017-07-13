@@ -14,6 +14,7 @@
 		226703481DEF535A0002661C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 226703461DEF535A0002661C /* LaunchScreen.storyboard */; };
 		226703531DEF535A0002661C /* class_test_burn_me_after_we_are_doneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 226703521DEF535A0002661C /* class_test_burn_me_after_we_are_doneTests.swift */; };
 		2267035E1DEF535B0002661C /* class_test_burn_me_after_we_are_doneUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2267035D1DEF535B0002661C /* class_test_burn_me_after_we_are_doneUITests.swift */; };
+		2267036C1DEF54180002661C /* Vehicle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2267036B1DEF54180002661C /* Vehicle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		226703591DEF535B0002661C /* class-test-burn-me-after-we-are-doneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "class-test-burn-me-after-we-are-doneUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2267035D1DEF535B0002661C /* class_test_burn_me_after_we_are_doneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = class_test_burn_me_after_we_are_doneUITests.swift; sourceTree = "<group>"; };
 		2267035F1DEF535B0002661C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2267036B1DEF54180002661C /* Vehicle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Vehicle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				226703441DEF535A0002661C /* Assets.xcassets */,
 				226703461DEF535A0002661C /* LaunchScreen.storyboard */,
 				226703491DEF535A0002661C /* Info.plist */,
+				2267036B1DEF54180002661C /* Vehicle.swift */,
 			);
 			path = "class-test-burn-me-after-we-are-done";
 			sourceTree = "<group>";
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2267036C1DEF54180002661C /* Vehicle.swift in Sources */,
 				226703401DEF535A0002661C /* ViewController.swift in Sources */,
 				2267033E1DEF53590002661C /* AppDelegate.swift in Sources */,
 			);
